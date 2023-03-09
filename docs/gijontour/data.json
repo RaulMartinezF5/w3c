@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "Gijon Tour",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
@@ -12,10 +12,10 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
-                    "complementary": "#FAFAFA"
+                    "brand": "#03BEFC",
+                    "complementary": "#030BFC"
                 },
-                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
+                "repository_url": "https://github.com/RaulMartinezF5/w3c.git",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
@@ -27,12 +27,12 @@
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Playa de San Lorenzo",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ba/eb/0e/playa-de-san-lorenzo.jpg?w=600&h=-1&s=1"
+                    
                     ],
-                    "description": "One-paragraph description",
+                    "description": "La playa mas bonita de Gijon y alrededores.",
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
@@ -44,12 +44,12 @@
                     "lat": "50.9",
                     "lon": "4.8",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Cerro de Santa Catalina",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/6f/73/70/santacatalina3-largejpg.jpg?w=1400&h=-1&s=1"
+                      
                     ],
-                    "description": "One-paragraph description",
+                    "description": "En este mismo lugar tambien podemos encontrar Elogio del Horizonte",
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/MyPoi",
